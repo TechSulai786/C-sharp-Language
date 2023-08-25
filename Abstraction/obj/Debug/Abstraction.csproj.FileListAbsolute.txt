@@ -1,0 +1,15 @@
+G:\C# Language\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+G:\C# Language\Abstraction\obj\Debug\Abstraction.csproj.SuggestedBindingRedirects.cache
+G:\C# Language\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+G:\C# Language\Abstraction\bin\Debug\Abstraction.exe.config
+G:\C# Language\Abstraction\bin\Debug\Abstraction.exe
+G:\C# Language\Abstraction\bin\Debug\Abstraction.pdb
+G:\C# Language\Abstraction\obj\Debug\Abstraction.exe
+G:\C# Language\Abstraction\obj\Debug\Abstraction.pdb
+D:\C#Language\Abstraction\bin\Debug\Abstraction.exe.config
+D:\C#Language\Abstraction\bin\Debug\Abstraction.exe
+D:\C#Language\Abstraction\bin\Debug\Abstraction.pdb
+D:\C#Language\Abstraction\obj\Debug\Abstraction.csproj.AssemblyReference.cache
+D:\C#Language\Abstraction\obj\Debug\Abstraction.csproj.CoreCompileInputs.cache
+D:\C#Language\Abstraction\obj\Debug\Abstraction.exe
+D:\C#Language\Abstraction\obj\Debug\Abstraction.pdb

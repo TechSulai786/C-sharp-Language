@@ -1,0 +1,28 @@
+G:\C# Language\obj\Debug\net6.0\C# Language.csproj.AssemblyReference.cache
+G:\C# Language\obj\Debug\net6.0\WindowsFormsApp1.Form1.resources
+G:\C# Language\obj\Debug\net6.0\C__Language.WindowsFormsApp1.Properties.Resources.resources
+G:\C# Language\obj\Debug\net6.0\C# Language.csproj.GenerateResource.cache
+G:\C# Language\obj\Debug\net6.0\C# Language.GeneratedMSBuildEditorConfig.editorconfig
+G:\C# Language\obj\Debug\net6.0\C# Language.AssemblyInfoInputs.cache
+G:\C# Language\obj\Debug\net6.0\C# Language.AssemblyInfo.cs
+G:\C# Language\obj\Debug\net6.0\C# Language.csproj.CoreCompileInputs.cache
+G:\C# Language\obj\Debug\net6.0\loginsystem.Login.resources
+G:\C# Language\obj\Debug\net6.0\C__Language.loginsystem.Properties.Resources.resources
+G:\C# Language\obj\Debug\net6.0\Royal_GYM.AddMembers.resources
+G:\C# Language\obj\Debug\net6.0\Royal_GYM.Login.resources
+G:\C# Language\obj\Debug\net6.0\Royal_GYM.mainform.resources
+G:\C# Language\obj\Debug\net6.0\Royal_GYM.payments.resources
+G:\C# Language\obj\Debug\net6.0\C__Language.Royal_GYM.Properties.Resources.resources
+G:\C# Language\obj\Debug\net6.0\Royal_GYM.updatedelete.resources
+G:\C# Language\obj\Debug\net6.0\Royal_GYM.viewmembers.resources
+G:\C#Language\obj\Debug\net6.0\C# Language.csproj.AssemblyReference.cache
+G:\C#Language\obj\Debug\net6.0\loginsystem.Login.resources
+G:\C#Language\obj\Debug\net6.0\C__Language.loginsystem.Properties.Resources.resources
+G:\C#Language\obj\Debug\net6.0\Royal_GYM.AddMembers.resources
+G:\C#Language\obj\Debug\net6.0\Royal_GYM.Login.resources
+G:\C#Language\obj\Debug\net6.0\Royal_GYM.mainform.resources
+G:\C#Language\obj\Debug\net6.0\Royal_GYM.payments.resources
+G:\C#Language\obj\Debug\net6.0\C__Language.Royal_GYM.Properties.Resources.resources
+G:\C#Language\obj\Debug\net6.0\Royal_GYM.updatedelete.resources
+G:\C#Language\obj\Debug\net6.0\Royal_GYM.viewmembers.resources
+G:\C#Language\obj\Debug\net6.0\C# Language.csproj.GenerateResource.cache

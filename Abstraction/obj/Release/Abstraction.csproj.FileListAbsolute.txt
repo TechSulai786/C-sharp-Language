@@ -1,0 +1,7 @@
+D:\C#Language\Abstraction\bin\Release\Abstraction.exe.config
+D:\C#Language\Abstraction\bin\Release\Abstraction.exe
+D:\C#Language\Abstraction\bin\Release\Abstraction.pdb
+D:\C#Language\Abstraction\obj\Release\Abstraction.csproj.AssemblyReference.cache
+D:\C#Language\Abstraction\obj\Release\Abstraction.csproj.CoreCompileInputs.cache
+D:\C#Language\Abstraction\obj\Release\Abstraction.exe
+D:\C#Language\Abstraction\obj\Release\Abstraction.pdb

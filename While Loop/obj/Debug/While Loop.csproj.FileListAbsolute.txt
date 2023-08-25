@@ -1,0 +1,16 @@
+G:\C# Language\While Loop\bin\Debug\While Loop.exe.config
+G:\C# Language\While Loop\bin\Debug\While Loop.exe
+G:\C# Language\While Loop\bin\Debug\While Loop.pdb
+G:\C# Language\While Loop\obj\Debug\While Loop.csproj.AssemblyReference.cache
+G:\C# Language\While Loop\obj\Debug\While Loop.csproj.SuggestedBindingRedirects.cache
+G:\C# Language\While Loop\obj\Debug\While Loop.csproj.CoreCompileInputs.cache
+G:\C# Language\While Loop\obj\Debug\While Loop.exe
+G:\C# Language\While Loop\obj\Debug\While Loop.pdb
+D:\C#Language\While Loop\bin\Debug\While Loop.exe.config
+D:\C#Language\While Loop\bin\Debug\While Loop.exe
+D:\C#Language\While Loop\bin\Debug\While Loop.pdb
+D:\C#Language\While Loop\obj\Debug\While Loop.csproj.AssemblyReference.cache
+D:\C#Language\While Loop\obj\Debug\While Loop.csproj.SuggestedBindingRedirects.cache
+D:\C#Language\While Loop\obj\Debug\While Loop.csproj.CoreCompileInputs.cache
+D:\C#Language\While Loop\obj\Debug\While Loop.exe
+D:\C#Language\While Loop\obj\Debug\While Loop.pdb

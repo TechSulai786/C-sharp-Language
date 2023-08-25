@@ -1,0 +1,15 @@
+D:\C#Language\Ternary Operator\bin\Debug\net6.0\Ternary Operator.exe
+D:\C#Language\Ternary Operator\bin\Debug\net6.0\Ternary Operator.deps.json
+D:\C#Language\Ternary Operator\bin\Debug\net6.0\Ternary Operator.runtimeconfig.json
+D:\C#Language\Ternary Operator\bin\Debug\net6.0\Ternary Operator.dll
+D:\C#Language\Ternary Operator\bin\Debug\net6.0\Ternary Operator.pdb
+D:\C#Language\Ternary Operator\obj\Debug\net6.0\Ternary Operator.csproj.AssemblyReference.cache
+D:\C#Language\Ternary Operator\obj\Debug\net6.0\Ternary Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Language\Ternary Operator\obj\Debug\net6.0\Ternary Operator.AssemblyInfoInputs.cache
+D:\C#Language\Ternary Operator\obj\Debug\net6.0\Ternary Operator.AssemblyInfo.cs
+D:\C#Language\Ternary Operator\obj\Debug\net6.0\Ternary Operator.csproj.CoreCompileInputs.cache
+D:\C#Language\Ternary Operator\obj\Debug\net6.0\Ternary Operator.dll
+D:\C#Language\Ternary Operator\obj\Debug\net6.0\refint\Ternary Operator.dll
+D:\C#Language\Ternary Operator\obj\Debug\net6.0\Ternary Operator.pdb
+D:\C#Language\Ternary Operator\obj\Debug\net6.0\Ternary Operator.genruntimeconfig.cache
+D:\C#Language\Ternary Operator\obj\Debug\net6.0\ref\Ternary Operator.dll

@@ -1,0 +1,15 @@
+D:\C#Language\String Concatination\bin\Debug\net6.0\String Concatination.exe
+D:\C#Language\String Concatination\bin\Debug\net6.0\String Concatination.deps.json
+D:\C#Language\String Concatination\bin\Debug\net6.0\String Concatination.runtimeconfig.json
+D:\C#Language\String Concatination\bin\Debug\net6.0\String Concatination.dll
+D:\C#Language\String Concatination\bin\Debug\net6.0\String Concatination.pdb
+D:\C#Language\String Concatination\obj\Debug\net6.0\String Concatination.csproj.AssemblyReference.cache
+D:\C#Language\String Concatination\obj\Debug\net6.0\String Concatination.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Language\String Concatination\obj\Debug\net6.0\String Concatination.AssemblyInfoInputs.cache
+D:\C#Language\String Concatination\obj\Debug\net6.0\String Concatination.AssemblyInfo.cs
+D:\C#Language\String Concatination\obj\Debug\net6.0\String Concatination.csproj.CoreCompileInputs.cache
+D:\C#Language\String Concatination\obj\Debug\net6.0\String Concatination.dll
+D:\C#Language\String Concatination\obj\Debug\net6.0\refint\String Concatination.dll
+D:\C#Language\String Concatination\obj\Debug\net6.0\String Concatination.pdb
+D:\C#Language\String Concatination\obj\Debug\net6.0\String Concatination.genruntimeconfig.cache
+D:\C#Language\String Concatination\obj\Debug\net6.0\ref\String Concatination.dll

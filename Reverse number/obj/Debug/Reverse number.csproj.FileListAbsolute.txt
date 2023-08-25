@@ -1,0 +1,16 @@
+G:\C# Language\Reverse number\bin\Debug\Reverse number.exe.config
+G:\C# Language\Reverse number\bin\Debug\Reverse number.exe
+G:\C# Language\Reverse number\bin\Debug\Reverse number.pdb
+G:\C# Language\Reverse number\obj\Debug\Reverse number.csproj.AssemblyReference.cache
+G:\C# Language\Reverse number\obj\Debug\Reverse number.csproj.SuggestedBindingRedirects.cache
+G:\C# Language\Reverse number\obj\Debug\Reverse number.csproj.CoreCompileInputs.cache
+G:\C# Language\Reverse number\obj\Debug\Reverse number.exe
+G:\C# Language\Reverse number\obj\Debug\Reverse number.pdb
+D:\C#Language\Reverse number\bin\Debug\Reverse number.exe.config
+D:\C#Language\Reverse number\bin\Debug\Reverse number.exe
+D:\C#Language\Reverse number\bin\Debug\Reverse number.pdb
+D:\C#Language\Reverse number\obj\Debug\Reverse number.csproj.AssemblyReference.cache
+D:\C#Language\Reverse number\obj\Debug\Reverse number.csproj.SuggestedBindingRedirects.cache
+D:\C#Language\Reverse number\obj\Debug\Reverse number.csproj.CoreCompileInputs.cache
+D:\C#Language\Reverse number\obj\Debug\Reverse number.exe
+D:\C#Language\Reverse number\obj\Debug\Reverse number.pdb
