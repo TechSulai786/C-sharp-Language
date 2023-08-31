@@ -8,3 +8,4 @@ foreach (string str in arr)
 {
     Console.WriteLine(str);
 }
+Console.ReadKey();
