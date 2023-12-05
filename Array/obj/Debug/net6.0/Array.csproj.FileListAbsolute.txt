@@ -12,3 +12,4 @@ D:\C#Language\Array\obj\Debug\net6.0\refint\Array.dll
 D:\C#Language\Array\obj\Debug\net6.0\Array.pdb
 D:\C#Language\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
 D:\C#Language\Array\obj\Debug\net6.0\ref\Array.dll
+D:\C#Language\array\obj\Debug\net6.0\Array.sourcelink.json
