@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#Language\\array\\Array.csproj": {}
+    "D:\\c#language\\array\\Array.csproj": {}
   },
   "projects": {
-    "D:\\C#Language\\array\\Array.csproj": {
+    "D:\\c#language\\array\\Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#Language\\array\\Array.csproj",
+        "projectUniqueName": "D:\\c#language\\array\\Array.csproj",
         "projectName": "Array",
-        "projectPath": "D:\\C#Language\\array\\Array.csproj",
+        "projectPath": "D:\\c#language\\array\\Array.csproj",
         "packagesPath": "C:\\Users\\TECHSULAI\\.nuget\\packages\\",
-        "outputPath": "D:\\C#Language\\array\\obj\\",
+        "outputPath": "D:\\c#language\\array\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
