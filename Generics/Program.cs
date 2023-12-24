@@ -12,9 +12,9 @@ public class program
 {
     public static void Main(string[] args)
     {
-        GenericsClass<int> generics = new GenericsClass<int>();
-        generics.Data = 45;
-        generics.DisplayName();
+        GenericsClass<int> intgenerics = new GenericsClass<int>();
+        intgenerics.Data = 45;
+        intgenerics.DisplayName();
 
         GenericsClass<string> strgenerics = new GenericsClass<string>();
         strgenerics.Data = "string.Empty";
